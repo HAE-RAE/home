@@ -3,18 +3,16 @@ layout: default
 title: "Home"
 ---
 
-## Search on Sorted Data
+## HAE-RAE (해례) 
 
-Search on Sorted Data (SOSD) is a new benchmark that allows researchers
-to compare their new (learned) index structures on both synthetic and real-world datasets. It is provided 
-as C++ open source code that incurs little overhead (8 instructions and 1 cache miss per lookup), comes 
-with diverse synthetic and real-world datasets, and provides efficient baseline implementations. 
-Here we provide an interface and leaderboard for index structures on our own hosted SOSD benchmark.
+HAE-RAE is a non-profit research lab dedicated to advancing the interpretability and evaluation of Korean language models. 
+Our name originates from the commentary on the "Hunminjeongeum," the original promulgation of the Korean script Hangul, reflecting our deep connection to the Korean language and culture.
 
-You can clone the [original repository](https://github.com/learnedsystems/SOSD) here to run benchmarks on your own 
-machine. This dataset is distributed under the [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.html) License.
+Founded in May 2023, our mission is to contribute to the field by developing insightful benchmarks and tools specifically tailored for Korean language models. 
+We believe that rigorous evaluation is crucial for understanding and improving these models, ultimately benefiting both researchers and users alike.
+Our team, consisting of over 20 members with diverse expertise, has authored two research papers on Korean Evaluation Benchmarks: [HAE-RAE Bench](https://arxiv.org/abs/2309.02706) and [KMMLU](https://arxiv.org/abs/2402.11548). These benchmarks provide comprehensive and standardized methods for assessing the performance of Korean language models across various tasks and domains.
 
-To have a new learned index added to the benchmark and leaderboard, send an email to [Andreas Kipf](mailto:kipf@mit.edu) or
-[Ryan Marcus](mailto:rcmarcus@mit.edu) with the manuscript and repository of the index.
+Currently, we are working on exciting new projects aimed at evaluating cultural bias and Korean fluency in language models. By investigating these critical aspects, we aim to foster the development of more culturally-aware and linguistically sophisticated models.
+At HAE-RAE, we are committed to openness, collaboration, and excellence in our research endeavors. We actively seek opportunities to engage with the wider research community and welcome feedback and partnerships that align with our mission.
 
-![DSG Logo](/assets/logo.png)
+![haerae Logo](/assets/logo.png)
