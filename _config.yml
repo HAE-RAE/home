@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 search_enabled: false
 
-title: SOSD
-email: learnedsystems@mit.edu
+title: HAERAE 
+email: spthsrbwls123@yonsei.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
   This website is an informational site for the SOSD dataset, and serves
   as the official MIT DSG host of SOSD benchmark results.
-baseurl: "/SOSDLeaderboard" # the subpath of your site, e.g. /blog
-url: "https://learnedsystems.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  learnedsystems
+baseurl: "/HAERAE" # the subpath of your site, e.g. /blog
+url: "https://haetae-project.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  HAETAE-project
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
