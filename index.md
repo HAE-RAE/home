@@ -5,12 +5,10 @@ title: "Home"
 
 ## HAE-RAE (해례) 
 
-<img align="right" src="assets/logo.png" width="35%" height="35%">>
+<img align="right" src="assets/logo.png" width="35%" height="35%">
 
 HAE-RAE is a non-profit research lab dedicated to advancing the interpretability and evaluation of Korean language models. 
 Our name originates from the commentary on the "Hunminjeongeum," the original promulgation of the Korean script Hangul, reflecting our deep connection to the Korean language and culture.
-
-
 
 Founded in May 2023, our mission is to contribute to the field by developing insightful benchmarks and tools specifically tailored for Korean language models. 
 We believe that rigorous evaluation is crucial for understanding and improving these models, ultimately benefiting both researchers and users alike.
