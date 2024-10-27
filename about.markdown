@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Research
+permalink: /research/
 ---
 
-## about us
+## Reserach
 
 HAE-RAE is a non-profit research lab dedicated to advancing the interpretability and evaluation of Korean language models through the development of insightful benchmarks and tools. Founded in May 2023, our team of over 20 members has already authored two research papers on Korean Evaluation Benchmarks, HAE-RAE Bench and KMMLU, and is currently working on new projects to evaluate cultural bias and Korean fluency in language models.
 
