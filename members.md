@@ -14,7 +14,7 @@ permalink: /team/
 
 <!-- Team Member Card 1 -->
 <div style="display: flex; align-items: center; gap: 20px; background-color: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 20px;">
-    <img src="https://github.com/HAE-RAE/home/blob/main/assets/gson.jpeg" alt="Guijin Son" 
+    <img src="https://github.com/HAE-RAE/home/blob/755eac7f4fc8db9328875c94b2217c18d1fa1c49/assets/gson.jpeg" alt="Guijin Son" 
          style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
     <div>
         <h3 style="margin: 0;">📢 <strong>Guijin Son</strong></h3>
@@ -28,7 +28,7 @@ permalink: /team/
 
 <!-- Team Member Card 2 -->
 <div style="display: flex; align-items: center; gap: 20px; background-color: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 20px;">
-    <img src="https://github.com/HAE-RAE/home/blob/main/assets/hw_lee.jpeg" alt="Hanwool Lee" 
+    <img src="https://github.com/HAE-RAE/home/blob/755eac7f4fc8db9328875c94b2217c18d1fa1c49/assets/hw_lee.jpeg" alt="Hanwool Lee" 
          style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
     <div>
         <h3 style="margin: 0;">📢 <strong>Hanwool Lee</strong></h3>
@@ -41,7 +41,7 @@ permalink: /team/
 
 <!-- Team Member Card 3 -->
 <div style="display: flex; align-items: center; gap: 20px; background-color: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 20px;">
-    <img src="https://github.com/HAE-RAE/home/blob/main/assets/ds_choi.jpeg" alt="Dasol Choi" 
+    <img src="https://github.com/HAE-RAE/home/blob/755eac7f4fc8db9328875c94b2217c18d1fa1c49/assets/ds_choi.jpeg" alt="Dasol Choi" 
          style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
     <div>
         <h3 style="margin: 0;">📢 <strong>Dasol Choi</strong></h3>
