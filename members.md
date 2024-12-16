@@ -33,7 +33,7 @@ permalink: /team/
     <div>
         <h3 style="margin: 0;">📢 <strong>Hanwool Lee</strong></h3>
         <p style="margin: 5px 0;">
-            <a href="mailto:spthsrbwls123@yonsei.ac.kr" target="_blank">Contact</a> ·  
+            <a href="mailto:gksdnf424@gmail.com" target="_blank">Contact</a> ·  
             <a href="https://www.linkedin.com/in/hanwoolalbert" target="_blank">LinkedIn</a>
         </p>
     </div>
