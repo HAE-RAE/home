@@ -10,7 +10,7 @@ permalink: /team/
 
 ## Researchers
 
-> <span style="color:gray"> *Researchers indicate those who have led published research over the last year.* </span>
+> <span style="color:gray"> *Researchers indicate those who have led published research over the past year.* </span>
 
 <!-- Team Member Card 1 -->
 <div style="display: flex; align-items: center; gap: 20px; background-color: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 20px;">
