@@ -2,6 +2,7 @@
 layout: page
 title: Meet the Team
 permalink: /team/
+order: 3
 ---
 
 
@@ -48,7 +49,7 @@ permalink: /team/
         <p style="margin: 5px 0;">
             <a href="mailto:dasolchoi@yonsei.ac.kr" target="_blank">Contact</a> ·  
             <a href="https://scholar.google.com/citations?user=qEQMMuoAAAAJ&hl=ko" target="_blank">Google Scholar</a> ·  
-            <a href="https://github.com/Dasol-Choi" target="_blank">Personal Blog</a>
+            <a href="https://www.linkedin.com/in/dasol-choi/" target="_blank">LinkedIn</a>
         </p>
     </div>
 </div>
