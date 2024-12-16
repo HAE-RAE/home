@@ -3,13 +3,32 @@ layout: page
 title: Research
 permalink: /research/
 ---
+*Preserving, Advancing Korean NLP*
 
-Below is a list of our past research. 
+## 2024
 
-## Research
+**December**  
+**Multilingual Challenges in Automated Evaluators: A Case Study on English and Korean**  
+GoodData@AAAI2025 · Guijin Son, Hyunwoo Ko · [more details](https://arxiv.org/abs/2409.11239)
 
-1. [HAE-RAE Bench: Evaluation of Korean Knowledge in Language Models](https://aclanthology.org/2024.lrec-main.704/) 
-2. [KMMLU: Measuring Massive Multitask Language Understanding in Korean](https://arxiv.org/abs/2402.11548)
-3. [K2EVAL: Harnessing the Evaluation of Linguistic Fluency and Ethnolinguistic Knowledge in Korean](https://sites.google.com/view/c3nlp/accepted-papers?authuser=0)
-4. [Assessing LLMs' Ability to Navigate Cultural Knowledge Conflicts](https://sites.google.com/view/c3nlp/accepted-papers?authuser=0)
-5. [LLM-as-a-Judge & Reward Model: What They Can and Cannot Do](https://arxiv.org/abs/2409.11239)
+**Improving Fine-grained Visual Understanding in VLMs through Text-Only Training**  
+AI2ASE@AAAI2025 · Dasol Choi, Guijin Son · [more details](https://arxiv.org/abs/2409.11239)
+
+---
+
+**July**  
+**K2EVAL: Harnessing the Evaluation of Linguistic Fluency and Ethnolinguistic Knowledge in Korean**  
+C3NLP@ACL2024 · Guijin Son, Hyunwoo Ko · [more details](https://sites.google.com/view/c3nlp/accepted-papers?authuser=0)
+
+**Assessing LLMs' Ability to Navigate Cultural Knowledge Conflicts**  
+C3NLP@ACL2024 · Guijin Son, Hanwool Lee · [more details](https://sites.google.com/view/c3nlp/accepted-papers?authuser=0)
+
+---
+**February**  
+**KMMLU: Measuring Massive Multitask Language Understanding in Korean**  
+Preprint · Guijin Son, Hanwool Lee · [more details](https://arxiv.org/abs/2402.11548)
+
+## 2023
+**September**  
+**HAE-RAE Bench: Evaluation of Korean Knowledge in Language Models**   
+LREC-COLING 2024 · Guijin Son, Hanwool Lee · [more details](https://aclanthology.org/2024.lrec-main.704/)
