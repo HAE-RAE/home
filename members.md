@@ -14,7 +14,7 @@ permalink: /team/
 
 <!-- Team Member Card 1 -->
 <div style="display: flex; align-items: center; gap: 20px; background-color: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 20px;">
-    <img src="assets/gson.jpeg" alt="Guijin Son" 
+    <img src="https://raw.githubusercontent.com/HAE-RAE/home/refs/heads/main/assets/gson.jpeg" alt="Guijin Son" 
          style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
     <div>
         <h3 style="margin: 0;">📢 <strong>Guijin Son</strong></h3>
@@ -41,7 +41,7 @@ permalink: /team/
 
 <!-- Team Member Card 3 -->
 <div style="display: flex; align-items: center; gap: 20px; background-color: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; margin-bottom: 20px;">
-    <img src="https://github.com/HAE-RAE/home/blob/755eac7f4fc8db9328875c94b2217c18d1fa1c49/assets/ds_choi.jpeg" alt="Dasol Choi" 
+    <img src="https://raw.githubusercontent.com/HAE-RAE/home/refs/heads/main/assets/ds_choi.jpeg" alt="Dasol Choi" 
          style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px;">
     <div>
         <h3 style="margin: 0;">📢 <strong>Dasol Choi</strong></h3>
