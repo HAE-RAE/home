@@ -6,6 +6,11 @@ order: 2
 ---
 *Preserving, Advancing Korean NLP*
 
+## 2025
+**January**  
+**Understand, Solve and Translate: Bridging the Multilingual Mathematical Reasoning Gap**  
+Preprint · Hyunwoo Ko, Guijin Son, Dasol Choi · [more details](https://arxiv.org/abs/2501.02448)
+
 ## 2024
 
 **December**  
