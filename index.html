@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HAE-RAE — Korean NLP research</title>
+<meta name="description" content="HAE-RAE (해례) is a non-profit, open-source research community working on the evaluation and interpretability of Korean and multilingual language models.">
+<meta property="og:title" content="HAE-RAE — Korean NLP research">
+<meta property="og:description" content="A non-profit, open-source research community working on the evaluation and interpretability of Korean and multilingual language models.">
+<meta property="og:type" content="website">
+<link rel="icon" href="assets/favicon.png">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site">
+  <div class="nav">
+    <a class="brand" href="index.html"><img src="assets/logo.png" alt=""><b>HAE-RAE</b><i>해례</i></a>
+    <span class="sp"></span>
+    <nav class="links">
+      <a href="index.html" class="on">Home</a>
+      <a href="research.html">Research</a>
+      <a href="team.html">Team</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <img class="hero-logo" src="assets/logo.png" alt="HAE-RAE">
+    <p class="eyebrow">Non-profit · Open source · Est. 2023</p>
+    <h1>Preserving and advancing<br>Korean NLP.</h1>
+    <p class="lede">HAE-RAE is a research community working on the <b>evaluation and interpretability</b> of Korean and multilingual language models. We build the benchmarks the field lacks, and we release them openly.</p>
+    <p class="lede">Our name is the <span class="han">해례</span> — the commentary bound with the Hunminjeongeum, which walks through the new Korean script letter by letter so that people can actually use it. The alphabet is the invention; the commentary is what makes it usable. Models are the invention. We write the commentary.</p>
+    <div class="btn-row">
+      <a class="btn" href="research.html">Read our research</a>
+      <a class="btn ghost" href="https://github.com/HAE-RAE" target="_blank" rel="noopener">GitHub</a>
+      <a class="btn ghost" href="https://huggingface.co/HAERAE-HUB" target="_blank" rel="noopener">Hugging Face</a>
+    </div>
+  </div>
+</div>
+
+<section>
+  <div class="wrap">
+    <h2 style="margin-bottom:18px">We believe in</h2>
+
+    <div class="beliefs">
+
+      <div class="belief">
+        <div class="num">01</div>
+        <div>
+          <h3>Open source</h3>
+          <p>Research that stays inside one group helps one group. A benchmark nobody can run is not a benchmark.</p>
+        </div>
+      </div>
+
+      <div class="belief">
+        <div class="num">02</div>
+        <div>
+          <h3>Different backgrounds</h3>
+          <p>A background in chemistry, law, or medicine is not a handicap here — it is the advantage.</p>
+        </div>
+      </div>
+
+      <div class="belief">
+        <div class="num">03</div>
+        <div>
+          <h3>Starting early</h3>
+          <p>How far a researcher goes depends less on ability than on how early they start.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">What we work on</p>
+      <h2>Drudgery for the community.</h2>
+      <p class="lede" style="margin-bottom:0">Someone has to build the benchmarks, run the evaluations, and check whether the numbers mean anything. We do that work, and we give it away.</p>
+    </div>
+
+    <div class="grid g2">
+      <div class="card">
+        <span class="n">01</span>
+        <h3>Evaluation &amp; benchmarks</h3>
+        <p><a href="https://aclanthology.org/2024.lrec-main.704/" target="_blank" rel="noopener">HAE-RAE Bench</a>,
+           <a href="https://arxiv.org/abs/2402.11548" target="_blank" rel="noopener">KMMLU</a>,
+           <a href="https://arxiv.org/abs/2507.08924" target="_blank" rel="noopener">KMMLU-Pro</a>,
+           <a href="https://arxiv.org/abs/2604.13058" target="_blank" rel="noopener">KMMMU</a>,
+           <a href="https://arxiv.org/abs/2509.14752" target="_blank" rel="noopener">KAIO</a>.
+           What Korean language models know, how they reason, and whether they hold on to cultural grounding — measured task by task.</p>
+      </div>
+
+      <div class="card">
+        <span class="n">02</span>
+        <h3>Multilingual reasoning</h3>
+        <p>Why reasoning degrades outside English, and what closes the gap:
+           <a href="https://arxiv.org/abs/2510.04230" target="_blank" rel="noopener">language-mixed chain-of-thought</a>,
+           <a href="https://arxiv.org/abs/2501.02448" target="_blank" rel="noopener">understand-solve-translate</a>,
+           <a href="https://arxiv.org/abs/2505.19116" target="_blank" rel="noopener">language confusion control</a>, and evaluation that reaches
+           <a href="https://arxiv.org/abs/2510.24081" target="_blank" rel="noopener">100+ languages</a>.</p>
+      </div>
+
+      <div class="card">
+        <span class="n">03</span>
+        <h3>Multimodal &amp; agents</h3>
+        <p>Vision-language models facing
+           <a href="https://arxiv.org/abs/2601.06165" target="_blank" rel="noopener">under-specified queries</a>,
+           <a href="https://arxiv.org/abs/2412.12940" target="_blank" rel="noopener">text-only VLM training</a>, and
+           <a href="https://arxiv.org/abs/2606.02404" target="_blank" rel="noopener">browsing agents</a>
+           tested against real Korean contexts rather than translated ones.</p>
+      </div>
+
+      <div class="card">
+        <span class="n">04</span>
+        <h3>LLM-as-a-judge</h3>
+        <p>What automated evaluators and reward models
+           <a href="https://arxiv.org/abs/2409.11239" target="_blank" rel="noopener">can and cannot do</a> —
+           including the failures that stay invisible as long as you only ever check them in English.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">Selected work</p>
+      <h2>Recent papers</h2>
+    </div>
+
+    <div class="pub">
+      <span class="venue">ICLR 2026</span>
+      <div class="t"><a href="https://arxiv.org/abs/2510.04230" target="_blank" rel="noopener">Pushing on Multilingual Reasoning Models with Language-Mixed Chain-of-Thought</a></div>
+    </div>
+    <div class="pub">
+      <span class="venue">ACL 2026 Findings</span>
+      <div class="t"><a href="https://arxiv.org/abs/2601.06165" target="_blank" rel="noopener">What Users Leave Unsaid: Under-Specified Queries Limit Vision-Language Models</a></div>
+    </div>
+    <div class="pub">
+      <span class="venue">EMNLP 2025</span>
+      <div class="t"><a href="https://arxiv.org/abs/2507.08924" target="_blank" rel="noopener">From KMMLU-Redux to KMMLU-Pro: A Professional Korean Benchmark Suite for LLM Evaluation</a></div>
+    </div>
+    <div class="pub">
+      <span class="venue">NAACL 2025</span>
+      <div class="t"><a href="https://arxiv.org/abs/2402.11548" target="_blank" rel="noopener">KMMLU: Measuring Massive Multitask Language Understanding in Korean</a></div>
+    </div>
+    <div class="pub">
+      <span class="venue">LREC-COLING 2024</span>
+      <div class="t"><a href="https://aclanthology.org/2024.lrec-main.704/" target="_blank" rel="noopener">HAE-RAE Bench: Evaluation of Korean Knowledge in Language Models</a></div>
+    </div>
+
+    <p style="margin-top:24px"><a href="research.html"><b>All publications →</b></a></p>
+  </div>
+</section>
+
+<footer class="site">
+  <div class="wrap row">
+    <div>
+      <a class="brand" href="index.html"><img src="assets/logo.png" alt=""><b>HAE-RAE</b><i>해례</i></a>
+      <p>Preserving and advancing Korean NLP · Est. 2023</p>
+    </div>
+    <span class="sp"></span>
+    <nav>
+      <a href="research.html">Research</a>
+      <a href="team.html">Team</a>
+      <a href="https://github.com/HAE-RAE" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://huggingface.co/HAERAE-HUB" target="_blank" rel="noopener">Hugging Face</a>
+      <a href="mailto:spthsrbwls123@yonsei.ac.kr">Contact</a>
+    </nav>
+  </div>
+</footer>
+
+</body>
+</html>
